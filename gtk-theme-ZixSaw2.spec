@@ -10,8 +10,6 @@ URL:		http://themes.freshmeat.net/projects/zixsaw2/?topic_id=923%2C951
 Requires:	gtk-engines
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
-%define		_mandir		/usr/X11R6/man
 
 %description
 Flat theme without distracting stuff.
