@@ -1,5 +1,5 @@
 Summary:	ZixSaw2 theme
-Summary(pl):	Temat ZixSaw2
+Summary(pl):	Motyw ZixSaw2
 Name:		gtk-theme-ZixSaw2
 Version:	1.2
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Flat theme without distracting stuff.
 
 %description -l pl
-P³aski temat bez zbêdnych drobiazgów.
+P³aski motyw bez zbêdnych drobiazgów.
 
 %prep
 %setup  -q -n ZixSaw2
