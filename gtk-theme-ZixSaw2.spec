@@ -4,13 +4,12 @@ Name:		gtk-theme-ZixSaw2
 Version:	1.2
 Release:	1
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://download.freshmeat.net/themes/zixsaw2/zixsaw2-1.2.x.tar.gz
 # Source0-md5:	5bc52aadc6489cee46ee35d4f007ba99
 URL:		http://themes.freshmeat.net/projects/zixsaw2/?topic_id=923%2C951
 Requires:	gtk-engines
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
 
 %description
 Flat theme without distracting stuff.
