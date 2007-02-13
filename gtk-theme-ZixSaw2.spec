@@ -1,5 +1,5 @@
 Summary:	ZixSaw2 theme
-Summary(pl.UTF-8):   Motyw ZixSaw2
+Summary(pl.UTF-8):	Motyw ZixSaw2
 Name:		gtk-theme-ZixSaw2
 Version:	1.2
 Release:	1
